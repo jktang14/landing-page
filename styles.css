@@ -9,15 +9,18 @@ body {
 .first {
     display: flex;
     flex-direction: column;
-    background-color: #1f2937;
-    padding: 10px;
+    background-color: #344358;
+    padding-bottom: 30px;
 }
 
 .header {
     display: flex;
+    background-color: rgb(63, 61, 61);
+    padding: 15px;
     color: white;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 50px;
 }
 
 .logo {
@@ -37,4 +40,42 @@ ul {
 a {
     text-decoration: none;
     color: white
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero {
+    width: 500px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+    margin: 0;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+img {
+    width: auto;
+    height: 140px;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 0;
+    border-radius: 8px;
+    padding: 8px;
+    width: 130px;
 }
