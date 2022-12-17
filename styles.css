@@ -9,7 +9,7 @@ body {
 .first {
     display: flex;
     flex-direction: column;
-    background-color: #46576e;
+    background-color: #25d89c;
     padding-bottom: 30px;
 }
 
