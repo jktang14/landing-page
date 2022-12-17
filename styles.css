@@ -93,9 +93,9 @@ p {
     margin-bottom: 10px;
 }
 
-img {
+.description img {
     width: auto;
-    height: 140px;
+    height: 170px;
 }
 
 button {
@@ -105,4 +105,38 @@ button {
     border-radius: 8px;
     padding: 8px;
     width: 130px;
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(https://images.pexels.com/photos/14397557/pexels-photo-14397557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 25px;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(144, 231, 144);
+}
+.pictures {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.pictures img{
+    width: auto;
+    height: 150px;
+}
+
+.animal {
+    width: 250px;
+}
+
+.animal div {
+    color: white;
 }
