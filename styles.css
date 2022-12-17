@@ -9,7 +9,7 @@ body {
 .first {
     display: flex;
     flex-direction: column;
-    background-color: #25d89c;
+    background-color: rgb(54, 153, 120);
     padding-bottom: 30px;
 }
 
@@ -46,7 +46,7 @@ body {
 
 .header {
     display: flex;
-    background-color: rgb(83, 81, 81);
+    background-color: rgba(83, 81, 81, 0.8);
     padding: 0 15px;
     color: white;
     justify-content: space-between;
@@ -111,32 +111,36 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url(https://images.pexels.com/photos/14397557/pexels-photo-14397557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    padding-bottom: 25px;
 }
 
 h2 {
     font-size: 30px;
-    color: rgb(144, 231, 144);
+    color: black;
+    margin-top: 8px;
+    margin-bottom: 10px;;
 }
+
 .pictures {
     display: flex;
     justify-content: space-between;
-    gap: 50px;
+    flex-wrap: wrap;
+    gap: 30px;
 }
 
 .pictures img{
-    width: auto;
-    height: 150px;
+    max-width: 100%;
 }
 
 .animal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     width: 250px;
+    text-align: center;
+    background-color: rgba(8, 29, 8, 0.5);
+    padding: 5px;
 }
 
 .animal div {
-    color: white;
+    color: rgb(255, 255, 255);
 }
