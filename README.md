@@ -9,4 +9,3 @@ Leopard Photo: Satya Deep https://www.pexels.com/@satya-deep-27903/
 Tiger Photo: Antonios Ntoumas https://pixabay.com/users/atlantios-4957810/
 Gorilla Photos: Gabriel Gach https://pixabay.com/users/geogab-11225558/
 Black Rhino: Ron Porter https://pixabay.com/users/ronporter-291009/
-Grass background image: Ingrid North https://www.pexels.com/@spacetraveler/
