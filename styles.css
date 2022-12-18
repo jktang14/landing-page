@@ -50,7 +50,6 @@ body {
     padding: 0 15px;
     color: white;
     justify-content: space-between;
-    align-items: center;
     margin-bottom: 30px;
 }
 
@@ -65,7 +64,16 @@ ul {
 
 a {
     text-decoration: none;
-    color: white
+    color: white;
+}
+
+ul a {
+    display: block;
+    padding: 23px 0;
+}
+
+li:hover {
+    background-color: rgba(0,0,0,0.5);
 }
 
 .description {
