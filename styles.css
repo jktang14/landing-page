@@ -124,6 +124,11 @@ p {
     border: 0;
 }
 
+.firstbutton:hover, 
+.secondbutton:hover {
+    background-color: darkblue;
+}
+
 .second {
     display: flex;
     flex-direction: column;
