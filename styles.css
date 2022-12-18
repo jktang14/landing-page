@@ -130,6 +130,8 @@ h2 {
 
 .pictures img{
     max-width: 100%;
+    border: 5px solid #2ea879 ;
+    padding: 3px;
 }
 
 .animal {
@@ -138,12 +140,10 @@ h2 {
     align-items: center;
     width: 250px;
     text-align: center;
-    background-color: rgba(8, 29, 8, 0.5);
-    padding: 5px;
 }
 
 .animal div {
-    color: rgb(255, 255, 255);
+    color: rgb(82, 80, 80);
 }
 
 .third {
