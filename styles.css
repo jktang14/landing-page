@@ -212,3 +212,10 @@ h2 {
    font-size: 15px; 
    color: rgb(219, 214, 214);
 }
+
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+    padding: 30px;
+    color:rgb(219, 214, 214)
+}
