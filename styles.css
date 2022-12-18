@@ -107,6 +107,7 @@ p {
 .description img {
     width: auto;
     height: 170px;
+    border: 10px double black;
 }
 
 .firstbutton,
