@@ -185,7 +185,8 @@ h2 {
     margin: 0 auto 5px ;
 }
 
-.author {
+p {
+    color: black;
     margin-left: 60%;
     width: 300px;
 }
